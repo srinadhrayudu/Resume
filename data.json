@@ -1,9 +1,26 @@
 {
 	"details":{
 		"name":"srinadh",
-		"image":"image.png",
+		"image":"icon.jpg",
 		"phone":"9999999999",
 		"email":"srinadh3307@gmail.com"
-
+	},
+	"education":[
+		
+	{
+		"course":"B.tech(cse)",
+		"college":"MIC college",
+		"per":"78%"
+	},
+	{
+		"course":"Intermediate(MPC)",
+		"college":"JRC",
+		"per":"88%"
+	},
+	{
+		"course":"Ssc",
+		"college":"Chegu",
+		"per":"78%"
 	}
+]
 }
