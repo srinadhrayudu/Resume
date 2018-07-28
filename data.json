@@ -22,5 +22,23 @@
 		"college":"Chegu",
 		"per":"78%"
 	}
-]
+
+],	
+	"skills":[
+	{
+		"title":"programming languages",
+		"output":[
+		"c","c++","java","python"
+		]		
+	},
+	{
+		"title":"operating systems",
+		"output":[
+		"windows","unix","mac"
+		]
+}
+],
+"carrier":{
+	"co":"to associate with organization that gives the power of nation will give strenght to our country"
+}
 }
